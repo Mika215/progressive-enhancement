@@ -15,4 +15,3 @@ Any constructive comments and sugestions are welcome!
 **Technologies used** 
 
 I have used `HTML` to structure the content then `css` to give some basic style.
-y 
